@@ -1,6 +1,6 @@
 My name is Nithin 
 This is my Assignment on Git commands
-Git is a version control system.
+Git is a distributed version control system.
 It helps track changes in files.
 Git supports branching and merging.
 Developers collaborate using GitHub.
