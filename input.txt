@@ -1,4 +1,4 @@
-My name is Nithin 
+My name is Siva Nithin 
 This is my Assignment on Git commands
 Git is a distributed version control system.
 It helps track changes in files.
