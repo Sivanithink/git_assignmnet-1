@@ -5,3 +5,4 @@ It helps track changes in files.
 Git supports branching and merging.
 Developers collaborate using GitHub.
 Commits record the project history.
+Git allows rollbacks to previous versions.
