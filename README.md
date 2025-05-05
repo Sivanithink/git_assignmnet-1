@@ -31,3 +31,8 @@
 
 4.  **fix: change name to full name in line 1**
     * Updated "My name is Nithin" to "My name is Siva Nithin" for full-name usage.
+
+## Assignment 2
+* This README was updated on a feature branch.
+* By Author :Siva Nithin
+* Link to GitHub repository:https://github.com/Sivanithink/git_assignmnet-1
